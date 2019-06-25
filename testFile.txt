@@ -1,1 +1,3 @@
-Now we've deleted the content!
+Hello! Welcome to testfile.txt
+This file is for testing purposes.
+Good Luck!
